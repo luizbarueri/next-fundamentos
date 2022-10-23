@@ -6,7 +6,7 @@ import db from '../../api/db.json';
 
 export default function CadCliente(props) {
     const dados = JSON.parse(JSON.stringify(db))
-    const i = props.id;
+    const i = 0 //props.id;
     const id = dados[i].id
     const nome = dados[i].nome
     const placa = dados[i].placa
