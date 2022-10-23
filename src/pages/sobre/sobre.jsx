@@ -24,9 +24,7 @@ export default function Sobre() {
                 height: '100vh'
             }}>
                 <p className={style.p_texto}>Esta página é sobre Next e React</p>
-    
                 <p className={style.p_texto}>{teste()}</p>
-                <p>Cade o mapa??</p>
                 <Mapa />
             </div>
         </>
