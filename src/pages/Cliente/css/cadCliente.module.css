@@ -1,0 +1,17 @@
+.div_cad {
+    background-color: rgb(81, 81, 79);
+    display:block;
+    border: 3px solid rgb(161, 157, 157);
+    padding: 4px;
+}
+
+.rotulo {
+    display: inline-block;
+    width: 50px;
+    color: rgb(205, 220, 146);
+}
+
+.dados {
+    background-color: cornflowerblue;
+    width: 100px;
+}

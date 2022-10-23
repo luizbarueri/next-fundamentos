@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "nome": "Luiz Amaro",
+        "placa": "AAA-1234"
+    },
+    {
+        "id": "2",
+        "nome": "Ana Clara",
+        "placa": "BBB-1234"
+
+    },
+    {
+        "id": "3",
+        "nome": "Salina Carabi",
+        "placa": "CCC-1234"
+
+    }
+]

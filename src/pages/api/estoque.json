@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "produto": "Retentor Honda",
+        "valor": "78.40"
+    },
+    {
+        "id": "2",
+        "produto": "Banco tradicional",
+        "valor": "238.40"
+    },
+    {
+        "id": "3",
+        "produto": "Paralama traseiro Yamaha",
+        "valor": "380.00"
+    }
+]

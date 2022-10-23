@@ -1,0 +1,16 @@
+.quadro {
+   display: block;
+   text-align: center;
+   padding: 5px; 
+}
+.div_quadro {
+   display: block;
+   text-align: center;
+   
+}
+.span_txt {
+    text-align: center;
+}
+.logo {
+    border-radius: 25px;
+}

@@ -1,0 +1,17 @@
+.menu_bar {
+    background-color: rgb(81, 81, 79);
+    display:flex;
+    border: 3px solid rgb(161, 157, 157);
+    padding: 5px;
+}
+.menu_bar a {
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 4px;
+    color: #eee;
+    margin-left: 5px;
+}
+

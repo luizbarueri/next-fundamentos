@@ -1,0 +1,14 @@
+
+.div_home {
+    background-color: rgb(23, 22, 22);
+    color: #eee;
+    /* font-size: 25px; */
+}
+
+.p_texto { 
+    border: 1px solid black;
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+    padding-inline-start: 10px;
+}
