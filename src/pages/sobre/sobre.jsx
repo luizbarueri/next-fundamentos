@@ -1,5 +1,6 @@
-import Navegador from '../components/Navegador'
+import Navegador from '../components/Navegador';
 import style from './css/Sobre.module.css';
+import Mapa from './components/mapa';
 
 export default function Sobre() {
     var lista = []
@@ -26,6 +27,7 @@ export default function Sobre() {
     
                 <p className={style.p_texto}>{teste()}</p>
                 <p>Cade o mapa??</p>
+                <Mapa />
             </div>
         </>
         
