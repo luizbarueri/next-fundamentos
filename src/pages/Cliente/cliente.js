@@ -2,13 +2,15 @@ import Navegador from '../components/Navegador';
 import CadCliente from './components/CadCliente';
 
 export default function Cliente() {
-   var idCli = 3 //prompt("Digite um ID:")
+   var id0 = '0';
+   var id1 = '1';
+   var id2 = '2';  //prompt("Digite um ID:")
     return (
         <div>
             <Navegador />
-            <CadCliente id = { idCli-3 } />
-            <CadCliente id = { idCli-2 } />
-            <CadCliente id = { idCli-1 } />
+            <CadCliente id = { id0 } />
+            <CadCliente id = { id1 } />
+            <CadCliente id = { id2 } />
         </div>
     )
 }
