@@ -2,9 +2,9 @@ import Navegador from '../components/Navegador';
 import CadCliente from './components/CadCliente';
 
 export default function Cliente() {
-   var id0 = '0';
-   var id1 = '1';
-   var id2 = '2';  //prompt("Digite um ID:")
+   var id0 = prompt("Digite um ID 0:");
+   var id1 = prompt("Digite um ID 1:");
+   var id2 = prompt("Digite um ID 2:");
     return (
         <div>
             <Navegador />
