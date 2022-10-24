@@ -8,7 +8,7 @@ export default function Cliente() {
     return (
         <div>
             <Navegador />
-            <CadCliente />
+            <CadCliente id = '2'/>
             {/* <CadCliente />
             <CadCliente /> */}
         </div>
