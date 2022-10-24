@@ -1,7 +1,7 @@
 import Navegador from '../components/Navegador';
 import CadCliente from './components/CadCliente';
 
-export default function Cliente(props) {
+export default function Cliente() {
    var idCli = 3 //prompt("Digite um ID:")
     return (
         <div>
